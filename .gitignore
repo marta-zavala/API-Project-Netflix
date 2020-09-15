@@ -129,5 +129,7 @@ dmypy.json
 .pyre/
 .DS_Store
 .env
-GoodOne.ipynb
+
+src/GoodOne.ipynb
+
 Pruebas.ipynb
