@@ -32,8 +32,7 @@ En función de los parámetros introducidos puedes obtener:
 - Título: Devuelve la información sobre la película introducida y la diferencia entre su rating y la media de las valoraciones de todo el dataset.
     - Ejemplo:    ~python3 main.py -t "Charlie's Angels: Full Throttle"
 - Género, año y rating: Puedes introducir uno de ellos, dos o los tres. Devuelve el top 5 películas filtradas por los parámetros introducidos ordenados de mejor a peor rating.
-    - Ejemplo:    ~python3 main.py -g "Dramas" -y 1997 -r 8
-                  ~python3 main.py -y 2015 -r 7
+    - Ejemplo:    ~python3 main.py -g "Dramas" -y 1997 -r 8         ~python3 main.py -y 2015 -r 7
 - Sin parámetros: Top películas ordenadas de mejor a peor rating (dataset sin filtrar).
     - Ejemplo:    ~python3 main.py
 
